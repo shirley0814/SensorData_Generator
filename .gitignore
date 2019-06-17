@@ -261,9 +261,12 @@ __pycache__/
 *.pyc
 
 #Some files include private infomation
+./Documents/*
 ./Documents/留下来的资料/*
 ./Documents/申报/*
 ./Documents/参考资料/*
 
 #Too large file and not necessary to upload
 ./Documents/Blender建模/makehuman-1.1.1-win32.zip
+./Dataset/*
+*.bag
