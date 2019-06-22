@@ -270,3 +270,6 @@ __pycache__/
 ./Documents/Blender建模/makehuman-1.1.1-win32.zip
 ./Dataset/*
 *.bag
+./scene.unitypackage
+*.unitypackage
+
